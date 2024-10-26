@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../portfolio-responsive-complete-main/portfolio-responsive-complete-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "freelancer-portfolio-template"
+	}
+}
